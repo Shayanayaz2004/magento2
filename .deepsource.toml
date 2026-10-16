@@ -6,3 +6,9 @@ name = "php"
 [[analyzers]]
 name = "javascript"
 
+[[analyzers]]
+name = "sql"
+
+[[analyzers]]
+name = "secrets"
+
